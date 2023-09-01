@@ -1,0 +1,77 @@
+# Error cases
+
+- **summarize paper number 15065**
+
+  - I'm sorry, but I couldn't find a summary or relevant information for the paper number 15065 in the available documents. It might be helpful to provide more specific details about the paper or check the paper directly for the information you need.
+
+---
+
+- **Does CorroLogic AST provide protection against pitting corrosion?**
+
+  - CorroLogic AST is an engineered solution designed to mitigate soil-side corrosion on storage tank bottoms. While the documents do not explicitly mention pitting corrosion, the solution is designed to reduce the overall corrosion rate, which should theoretically include all forms of corrosion, including pitting. Lab tests and field applications have shown that CorroLogic Powder can reduce corrosion rate by a percentage between 80% and 95% in the absence or presence of cathodic protection.
+
+---
+
+- **summarize paper number c2020-15065**
+
+  - I'm sorry, but I couldn't find a summary or relevant information for the paper number c2020-15065 in the available documents. It might be helpful to provide more specific details about the paper or check the paper directly for the information you need.
+
+---
+
+- **summarize paper No. c2020-15065**
+
+  - I'm sorry, but I couldn't find a summary or relevant information for the paper No. c2020-15065 in the available documents. It might be helpful to provide more specific details about the paper or check the paper directly for the information you need.
+
+---
+
+- **its available in document called 13.pdf**
+
+  - I'm sorry, but the information retrieved from the document "13.pdf" does not provide a summary or specific details about the paper No. c2020-15065. The information available is a general statement about the material presented in the paper and the views expressed by the author(s). It might be helpful to provide more specific details about the paper or check the paper directly for the information you need.
+
+---
+
+- **What was the subject of the email sent to Gamini? and Who did he meet in Qatar?**
+
+  - The subject of the email sent to Gamini was "Cortec CorroLogic system for ASTs". The email was sent by Khalil Abed, the Business Development Manager for CORTEC Middle East.
+
+    As for who Gamini met in Qatar, the documents do not provide specific information about this. There is a mention of QatarGas in one of the documents, but it does not specify if Gamini had a meeting with representatives from this company.
+
+---
+
+- **Who is the author of Paper No. 2242?**
+
+  - I'm sorry, but the documents do not provide specific information about the author of Paper No. 2242.
+
+---
+
+- **What Type of solution do you recommend for a tank under construction?**
+
+  - As an AI, I can provide a general recommendation based on common practices in the industry. For a tank under construction, it's crucial to consider corrosion protection solutions. One such solution could be the use of Cortec's CorroLogic system, which is designed to protect tank bottoms from soil-side corrosion.
+
+    The CorroLogic system includes Vapor phase Corrosion Inhibitors (VpCIs) that protect metal in enclosed spaces. When applied to the tank bottom, these VpCIs form a protective molecular layer on the metal surface that inhibits corrosion.
+
+    However, the best solution would depend on the specific conditions and requirements of the tank, such as its size, the material it's made of, the environment it's in, and the substance it will store. Therefore, it's recommended to consult with a corrosion protection specialist or a representative from Cortec for a solution tailored to your specific needs.
+
+---
+
+- **What delivery method should be used for tank under construction?**
+
+  - For a tank under construction, the delivery method of corrosion protection solutions like Cortec's CorroLogic system would typically involve direct application to the tank bottom before it is placed on the pad.
+
+    The CorroLogic system is often delivered in the form of a spray, foam, or fog that can be applied to the metal surfaces. This allows the Vapor phase Corrosion Inhibitors (VpCIs) to form a protective molecular layer on the metal surface that inhibits corrosion.
+
+    However, the exact delivery method can depend on the specific conditions and requirements of the tank and the corrosion protection system being used. It's recommended to consult with a corrosion protection specialist or a representative from Cortec for the most suitable delivery method for your specific situation.
+
+---
+
+- **what about dispensing system ?**
+
+  - For a tank under construction, a dispensing system can be used to apply corrosion protection solutions like Cortec's CorroLogic system. The dispensing system should be designed to effectively distribute the corrosion inhibitor across the entire surface area that needs protection.
+
+    The CorroLogic system can be dispensed using a variety of methods, including spraying, fogging, or foaming. The choice of dispensing method will depend on the specific conditions and requirements of the tank.
+
+    In some cases, a more advanced dispensing system may be required. For example, Cortec's CorroLogic system can be delivered via a CorroLogic VpCI Filler, which is a specially designed device that injects the VpCI into the sand pad under the tank. This ensures that the corrosion inhibitor reaches all areas of the tank bottom, providing comprehensive protection.
+
+    Again, it's recommended to consult with a corrosion protection specialist or a representative from Cortec to determine the most suitable dispensing system for your specific situation.
+
+---
