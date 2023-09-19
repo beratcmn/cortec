@@ -1,1 +1,7 @@
 python-dotenv==1.0.0
+langchain
+openai
+tiktoken
+chromadb
+pypdf
+pybox @ git+https://github.com/beratcmn/pybox.git
