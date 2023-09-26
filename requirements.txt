@@ -6,3 +6,4 @@ chromadb
 pypdf
 pybox @ git+https://github.com/beratcmn/pybox.git
 sentence_transformers
+pandas
